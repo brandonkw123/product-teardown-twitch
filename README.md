@@ -22,7 +22,7 @@ Twitch dominates the live streaming market with 140+ million monthly active user
 2. **Improved Discovery Algorithm**: Develop ML-based content recommendation for smaller streamers
 3. **Interactive Viewer Features**: Launch collaborative viewing experiences and real-time polls
 
-## 📱 Product Overview
+## Product Overview
 
 ### What is Twitch?
 Twitch is the world's leading live streaming platform for gamers, creators, and communities, offering real-time entertainment and interaction between streamers and viewers.
