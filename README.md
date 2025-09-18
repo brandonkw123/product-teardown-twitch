@@ -2,7 +2,7 @@
 
 > A comprehensive analysis of Twitch's streaming platform with actionable improvement recommendations for creator monetization, viewer engagement, and platform growth.
 
-## Table of Contents
+## 📋 Table of Contents
 - [Executive Summary](#executive-summary)
 - [Product Overview](#product-overview)
 - [User Analysis](#user-analysis)
@@ -13,7 +13,7 @@
 - [Demos](#demos)
 - [Conclusion](#conclusion)
 
-## Executive Summary
+## 🎯 Executive Summary
 
 Twitch dominates the live streaming market with 140+ million monthly active users, but faces increasing competition and creator retention challenges. This analysis identifies three key opportunities to strengthen Twitch's market position and improve stakeholder value.
 
@@ -22,7 +22,7 @@ Twitch dominates the live streaming market with 140+ million monthly active user
 2. **Improved Discovery Algorithm**: Develop ML-based content recommendation for smaller streamers
 3. **Interactive Viewer Features**: Launch collaborative viewing experiences and real-time polls
 
-## Product Overview
+## 📱 Product Overview
 
 ### What is Twitch?
 Twitch is the world's leading live streaming platform for gamers, creators, and communities, offering real-time entertainment and interaction between streamers and viewers.
@@ -38,15 +38,15 @@ Twitch is the world's leading live streaming platform for gamers, creators, and 
 - Advertising
 - Commerce (game sales, merchandise)
 
-## User Analysis
+## 👥 User Analysis
 
 [Content coming - see detailed analysis in research folder]
 
-## Business Analysis
+## 💼 Business Analysis
 
 [Content coming - see competitive analysis in research folder]
 
-## Improvement Recommendations
+## 🚀 Improvement Recommendations
 
 ### 1. Creator Monetization Suite 2.0
 **Problem**: 90% of streamers earn less than $100/month, leading to high creator churn
@@ -71,19 +71,19 @@ Twitch is the world's leading live streaming platform for gamers, creators, and 
   - Average viewer session duration
   - New viewer-to-follower conversion rate
 
-## Demos
+## 🎨 Demos
 
 View interactive prototypes for proposed improvements:
 - [Creator Dashboard Redesign](./demos/)
 - [Discovery Algorithm Visualization](./demos/)
 - [Watch Party Features](./demos/)
 
-## Appendix
+## 📚 Appendix
 - [Detailed User Research](./research/user-research.md)
 - [Competitive Analysis](./research/competitive-analysis.md)
 - [Market Analysis](./research/market-analysis.md)
 
-## Contact
+## 📧 Contact
 Questions or feedback? Let's connect!
-- Email: [brandonkw123@gmail.com]
-- LinkedIn: [linkedin.com/in/brandonkwong98/]
+- Email: [brandonkw123\@gmail.com](mailto:brandonkw123\@gmail.com.com)
+- LinkedIn: [Brandon Wong](https://www.linkedin.com/in/brandonkwong98/)
